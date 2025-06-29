@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sinema_Bufesi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a1127f1a7ffdce22f39bc0a2b0cb15239229e48")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sinema_Bufesi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sinema_Bufesi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

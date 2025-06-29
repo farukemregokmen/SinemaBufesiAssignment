@@ -1,0 +1,17 @@
+C:\Users\1\source\repos\Sinema_Bufesi\bin\Debug\net8.0-windows\Sinema_Bufesi.exe
+C:\Users\1\source\repos\Sinema_Bufesi\bin\Debug\net8.0-windows\Sinema_Bufesi.deps.json
+C:\Users\1\source\repos\Sinema_Bufesi\bin\Debug\net8.0-windows\Sinema_Bufesi.runtimeconfig.json
+C:\Users\1\source\repos\Sinema_Bufesi\bin\Debug\net8.0-windows\Sinema_Bufesi.dll
+C:\Users\1\source\repos\Sinema_Bufesi\bin\Debug\net8.0-windows\Sinema_Bufesi.pdb
+C:\Users\1\source\repos\Sinema_Bufesi\obj\Debug\net8.0-windows\Sinema_Bufesi.Form1.resources
+C:\Users\1\source\repos\Sinema_Bufesi\obj\Debug\net8.0-windows\Sinema_Bufesi.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Sinema_Bufesi\obj\Debug\net8.0-windows\Sinema_Bufesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Sinema_Bufesi\obj\Debug\net8.0-windows\Sinema_Bufesi.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Sinema_Bufesi\obj\Debug\net8.0-windows\Sinema_Bufesi.AssemblyInfo.cs
+C:\Users\1\source\repos\Sinema_Bufesi\obj\Debug\net8.0-windows\Sinema_Bufesi.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Sinema_Bufesi\obj\Debug\net8.0-windows\Sinema_Bufesi.sourcelink.json
+C:\Users\1\source\repos\Sinema_Bufesi\obj\Debug\net8.0-windows\Sinema_Bufesi.dll
+C:\Users\1\source\repos\Sinema_Bufesi\obj\Debug\net8.0-windows\refint\Sinema_Bufesi.dll
+C:\Users\1\source\repos\Sinema_Bufesi\obj\Debug\net8.0-windows\Sinema_Bufesi.pdb
+C:\Users\1\source\repos\Sinema_Bufesi\obj\Debug\net8.0-windows\Sinema_Bufesi.genruntimeconfig.cache
+C:\Users\1\source\repos\Sinema_Bufesi\obj\Debug\net8.0-windows\ref\Sinema_Bufesi.dll
